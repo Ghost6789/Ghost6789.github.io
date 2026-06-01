@@ -1,3 +1,5 @@
-# Ghost6789.github.io
+theme: jekyll-theme-minimal
+title: My Homepage!
+description: This is the homepage for all my future projects!
 
 ## Hello World!
